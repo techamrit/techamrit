@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is my second repository.
 
-Author - amrit pal
+Author - techamrit
 <!--
 **techamrit/techamrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
